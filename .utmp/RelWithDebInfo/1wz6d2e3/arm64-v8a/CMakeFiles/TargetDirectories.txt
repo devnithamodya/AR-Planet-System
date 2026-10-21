@@ -1,0 +1,5 @@
+D:/devni/UNITY PROJECTS/ARPlanet_FC231038/.utmp/RelWithDebInfo/1wz6d2e3/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/devni/UNITY PROJECTS/ARPlanet_FC231038/.utmp/RelWithDebInfo/1wz6d2e3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/devni/UNITY PROJECTS/ARPlanet_FC231038/.utmp/RelWithDebInfo/1wz6d2e3/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/devni/UNITY PROJECTS/ARPlanet_FC231038/.utmp/RelWithDebInfo/1wz6d2e3/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/devni/UNITY PROJECTS/ARPlanet_FC231038/.utmp/RelWithDebInfo/1wz6d2e3/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

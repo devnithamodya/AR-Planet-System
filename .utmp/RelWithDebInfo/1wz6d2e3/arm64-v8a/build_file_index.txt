@@ -1,0 +1,2 @@
+D:\devni\UNITY PROJECTS\ARPlanet_FC231038\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\devni\UNITY PROJECTS\ARPlanet_FC231038\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
